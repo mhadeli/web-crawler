@@ -1,5 +1,7 @@
 # Web Crawling
 
+<img width="1440" alt="Screenshot 2024-07-22 at 11 58 16 PM" src="https://github.com/user-attachments/assets/866e699c-b6ea-49a4-9839-4769ef906a89">
+
 ## Overview
 
 Web Crawl is a web application that allows you to scrape web pages and use Retrieval-Augmented Generation (RAG) to answer questions based on the scraped content. The application is built with Streamlit and utilizes OpenAI's language models for text generation.
